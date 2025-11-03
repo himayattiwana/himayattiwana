@@ -80,7 +80,7 @@
 
 ## quick links
 
-- ✉️ reach me: <a href="mailto:himayattiwana3@gmail.com">himayattiwana@gmail.com</a>  
+- ✉️ reach me: <a href="mailto:himayattiwana3@gmail.com">himayattiwana3@gmail.com</a>  
 - 🔗 linkedin: <a href="https://www.linkedin.com/in/himayattiwana" target="_blank">/in/himayattiwana</a>  
 - 📄 resume: <a href="https://github.com/himayattiwana/Resume" target="_blank">github.com/himayattiwana/Resume</a>
 
