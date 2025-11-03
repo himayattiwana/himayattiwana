@@ -12,9 +12,6 @@
   <a href="https://restaurant-food-delivery-management.onrender.com" target="_blank">
     <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Restaurant%20App-2ea44f?style=for-the-badge">
   </a>
-  <a href="https://github.com/himayattiwana" target="_blank">
-    <img alt="Follow" src="https://img.shields.io/github/followers/himayattiwana?style=for-the-badge&logo=github">
-  </a>
 </p>
 
 ---
