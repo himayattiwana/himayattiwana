@@ -1,4 +1,4 @@
-<!-- Simple Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://files.oaiusercontent.com/file_000000007e3872069d825cb5b0c6bf63" alt="Himayat Tiwana Banner" width="100%" />
 </p>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Software Developer • AI & Full-Stack Projects</b><br>
-  Passionate about building intelligent systems and practical web apps.
+  Passionate about building intelligent systems and practical web applications.
 </p>
 
 <p align="center">
@@ -25,10 +25,10 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🍴 Restaurant Food Delivery Management System</h3>
       <p>
-        Full CRUD demo for managing restaurants, customers, menu items, orders, and deliveries.<br>
+        A complete web app for managing restaurants, customers, menu items, orders, deliveries, and coupons.<br>
         <b>Stack:</b> Flask 3.x, MySQL (local) / SQLite (Render), Gunicorn<br>
         <b>Deployment:</b> <a href="https://restaurant-food-delivery-management.onrender.com" target="_blank">Live on Render</a>
       </p>
@@ -42,12 +42,13 @@
       </p>
       <img src="https://via.placeholder.com/800x420.png?text=Restaurant+App+Screenshot" alt="Restaurant App Screenshot" />
     </td>
-    <td width="50%">
+
+    <td width="50%" valign="top">
       <h3>🚨 Smart Disaster Response & Rescue Agent</h3>
       <p>
-        AI-powered disaster simulation system that deploys intelligent rescue agents using
-        A* pathfinding, genetic algorithms, and K-Means clustering.<br>
-        Built with Flask + JS frontend visualization.
+        AI-powered disaster simulation system where intelligent rescue agents navigate dynamically generated grids using
+        <b>A* pathfinding</b>, <b>Genetic Algorithms</b>, and <b>K-Means clustering</b> to optimize search and rescue operations.<br>
+        <b>Frontend:</b> Interactive grid visualization built with Flask + JavaScript.
       </p>
       <p>
         <a href="https://smart-disaster-response-and-rescue-agent-vov6.onrender.com/" target="_blank">
@@ -57,7 +58,7 @@
           <img src="https://img.shields.io/badge/View_Code-GitHub-111827?style=for-the-badge" />
         </a>
       </p>
-      <img src="https://files.oaiusercontent.com/file_00000000637871f98b53ae94c411d894" alt="Smart Disaster Response Screenshot" />
+      <img src="https://files.oaiusercontent.com/file_00000000637871f98b53ae94c411d894" alt="Smart Disaster Response Screenshot" width="100%" />
     </td>
   </tr>
 </table>
@@ -82,9 +83,15 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:himayattiwana@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-himayattiwana%40gmail.com-red?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/himayattiwana" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-himayattiwana-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/himayattiwana/Resume" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-4A154B?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+  <a href="mailto:himayattiwana3@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-himayattiwana3%40gmail.com-red?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/himayattiwana" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-himayattiwana-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/himayattiwana/Resume" target="_blank">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-View-4A154B?style=for-the-badge&logo=readthedocs&logoColor=white">
+  </a>
 </p>
 
 ---
