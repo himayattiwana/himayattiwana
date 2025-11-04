@@ -1,7 +1,7 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://files.oaiusercontent.com/file_000000007e3872069d825cb5b0c6bf63" alt="Himayat Tiwana Banner" width="100%" />
-</p>
+<!-- Banner (store your image at assets/banner.png) -->
+<div align="center">
+  <img src="./assets/banner.png" alt="Himayat Tiwana — Software Developer | AI & Full-Stack Projects" />
+</div>
 
 <h1 align="center">👋 Hey, I'm Himayat Tiwana</h1>
 
@@ -11,59 +11,40 @@
 </p>
 
 <p align="center">
-  <a href="https://restaurant-food-delivery-management.onrender.com" target="_blank">
+  <a href="https://restaurant-food-delivery-management.onrender.com">
     <img alt="Live Demo - Restaurant App" src="https://img.shields.io/badge/🍽️_Live_Demo-Restaurant_App-2ea44f?style=for-the-badge">
   </a>
-  <a href="https://smart-disaster-response-and-rescue-agent-vov6.onrender.com/" target="_blank">
+  <a href="https://smart-disaster-response-and-rescue-agent-vov6.onrender.com/">
     <img alt="Live Demo - Rescue Agent" src="https://img.shields.io/badge/🚨_Live_Demo-Rescue_Agent-0078D4?style=for-the-badge">
   </a>
 </p>
 
----
-
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍴 Restaurant Food Delivery Management System</h3>
-      <p>
-        A complete web app for managing restaurants, customers, menu items, orders, deliveries, and coupons.<br>
-        <b>Stack:</b> Flask 3.x, MySQL (local) / SQLite (Render), Gunicorn<br>
-        <b>Deployment:</b> <a href="https://restaurant-food-delivery-management.onrender.com" target="_blank">Live on Render</a>
-      </p>
-      <p>
-        <a href="https://restaurant-food-delivery-management.onrender.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Render-0ea5e9?style=for-the-badge" />
-        </a>
-        <a href="https://github.com/himayattiwana/Restaurant-Food-Delivery-Management-System" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-GitHub-111827?style=for-the-badge" />
-        </a>
-      </p>
-      <img src="https://via.placeholder.com/800x420.png?text=Restaurant+App+Screenshot" alt="Restaurant App Screenshot" />
-    </td>
+### 🍴 Restaurant Food Delivery Management System
+A complete web app for managing restaurants, customers, menu items, orders, deliveries, and coupons.  
+**Stack:** Flask 3.x, MySQL (local) / SQLite (Render), Gunicorn  
+**Links:**  
+[Live Demo](https://restaurant-food-delivery-management.onrender.com) •
+[Source Code](https://github.com/himayattiwana/Restaurant-Food-Delivery-Management-System)
 
-    <td width="50%" valign="top">
-      <h3>🚨 Smart Disaster Response & Rescue Agent</h3>
-      <p>
-        AI-powered disaster simulation system where intelligent rescue agents navigate dynamically generated grids using
-        <b>A* pathfinding</b>, <b>Genetic Algorithms</b>, and <b>K-Means clustering</b> to optimize search and rescue operations.<br>
-        <b>Frontend:</b> Interactive grid visualization built with Flask + JavaScript.
-      </p>
-      <p>
-        <a href="https://smart-disaster-response-and-rescue-agent-vov6.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Render-0ea5e9?style=for-the-badge" />
-        </a>
-        <a href="https://github.com/himayattiwana/Smart-Disaster-Response-and-Rescue-Agent" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-GitHub-111827?style=for-the-badge" />
-        </a>
-      </p>
-      <img src="https://files.oaiusercontent.com/file_00000000637871f98b53ae94c411d894" alt="Smart Disaster Response Screenshot" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- Replace with a real screenshot saved at assets/restaurant.png -->
+  <img src="./assets/restaurant.png" alt="Restaurant App Screenshot" width="800">
+</div>
 
 ---
+
+### 🚨 Smart Disaster Response & Rescue Agent
+AI-powered disaster simulation where intelligent rescue agents navigate grids using **A\*** pathfinding, **Genetic Algorithms**, and **K-Means clustering** to optimize search & rescue.  
+**Frontend:** Flask + JavaScript interactive visualization  
+**Links:**  
+[Live Demo](https://smart-disaster-response-and-rescue-agent-vov6.onrender.com/) •
+[Source Code](https://github.com/himayattiwana/Smart-Disaster-Response-and-Rescue-Agent)
+
+<div align="center">
+  <img src="./assets/rescue.png" alt="Smart Disaster Response & Rescue Agent" width="800">
+</div>
 
 ## 🧠 Tech Stack
 
@@ -78,8 +59,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 </p>
 
----
-
 ## 📬 Connect With Me
 
 <p align="center">
@@ -93,8 +72,6 @@
     <img alt="Resume" src="https://img.shields.io/badge/Resume-View-4A154B?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
 </p>
-
----
 
 <p align="center">
   <i>“Code. Debug. Deploy. Learn. Repeat.”</i>
