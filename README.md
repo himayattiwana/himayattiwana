@@ -1,4 +1,4 @@
-<!-- Banner (store your image at assets/banner.png) -->
+<!-- Banner -->
 <div align="center">
   <img src="./assets/banner.png" alt="Himayat Tiwana — Software Developer | AI & Full-Stack Projects" />
 </div>
@@ -19,6 +19,8 @@
   </a>
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🍴 Restaurant Food Delivery Management System
@@ -29,8 +31,7 @@ A complete web app for managing restaurants, customers, menu items, orders, deli
 [Source Code](https://github.com/himayattiwana/Restaurant-Food-Delivery-Management-System)
 
 <div align="center">
-  <!-- Replace with a real screenshot saved at assets/restaurant.png -->
-  <img src="./assets/restaurant.png" alt="Restaurant App Screenshot" width="800">
+  <img src="./assets/restaurant.png" alt="Restaurant App Screenshot" width="420" style="border-radius:8px;">
 </div>
 
 ---
@@ -43,8 +44,10 @@ AI-powered disaster simulation where intelligent rescue agents navigate grids us
 [Source Code](https://github.com/himayattiwana/Smart-Disaster-Response-and-Rescue-Agent)
 
 <div align="center">
-  <img src="./assets/rescue.png" alt="Smart Disaster Response & Rescue Agent" width="800">
+  <img src="./assets/rescue.png" alt="Smart Disaster Response & Rescue Agent" width="420" style="border-radius:8px;">
 </div>
+
+---
 
 ## 🧠 Tech Stack
 
@@ -58,6 +61,8 @@ AI-powered disaster simulation where intelligent rescue agents navigate grids us
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 </p>
+
+---
 
 ## 📬 Connect With Me
 
